@@ -6,12 +6,13 @@ You will get simple details about the volcanoes when you click on that.
 
 ## Getting Started
 
-Run the command in the command prompt - _pip install -r requirements.txt_
+Run the command in the command prompt - **_pip install -r requirements.txt_**
+
 to install necessary python libraby.
 
 1. Install ['Python3'](https://www.python.org/downloads/)
    And simply run the _map.py_ file.
-2. You can run the file from command prompt using command - _python_ _map.py_
+2. You can run the file from command prompt using command - **_python_ _map.py_**
 
 
 
