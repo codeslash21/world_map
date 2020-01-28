@@ -10,7 +10,7 @@ Run the command in the command prompt - **_pip install -r requirements.txt_**
 
 to install necessary python libraby.
 
-1. Install ['Python3'](https://www.python.org/downloads/)
+1. Install [Python3](https://www.python.org/downloads/)
    And simply run the _map.py_ file.
 2. You can run the file from command prompt using command - **_python_ _map.py_**
 
@@ -18,4 +18,4 @@ to install necessary python libraby.
 
 ### License
 
-This project is under _MIT License_ - see more details in ['LICENSE'](https://github.com/codeslash21/world_map/blob/master/LICENSE)
+This project is under _MIT License_ - see more details in [LICENSE](https://github.com/codeslash21/world_map/blob/master/LICENSE)
